@@ -1,0 +1,16 @@
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\SportacusTest.csproj.AssemblyReference.cache
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\SportacusTest.Form1.resources
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\SportacusTest.csproj.GenerateResource.cache
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\SportacusTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\bin\Debug\Ajalon.exe.config
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\bin\Debug\Ajalon.exe.manifest
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\bin\Debug\Ajalon.application
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\bin\Debug\Ajalon.exe
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\bin\Debug\Ajalon.pdb
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.Properties.Resources.resources
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.TrustInfo.xml
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.exe.manifest
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.application
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.exe
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\Ajalon.pdb
+D:\Visual Studio Projekte\Sportacus\SportacusTest\SportacusTest\obj\Debug\SportacusTest.csproj.SuggestedBindingRedirects.cache
